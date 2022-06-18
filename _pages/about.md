@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, welcome to my homepage! I am a M.S. student in [ECE, UCSD](https://www.ece.ucsd.edu/). I have broad research interest in Natural Language Processing and Vision-Language Learning. Specifically, I
 have been working on reducing the annotation cost and improving out-of-distribution robustness by
-leveraging various supervision or self-supervision signals.
+leveraging various supervision or self-supervision signals. Please check my cv [here](https://zhang-yu-wei.github.io/files/cv.pdf).
 
-**I am looking for a PhD position in FALL 2023!**
+**I am actively looking for a PhD position in FALL 2023!**
 
 Education
 ======
