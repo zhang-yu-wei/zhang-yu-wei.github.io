@@ -11,4 +11,4 @@ citation:
 
 Matthew Ricci, Minju Jung, **Yuwei Zhang**, Mathieu Chalvidal, Aneri Soni, Thomas Serre.
 
-[paper](https://arxiv.org/abs/2105.02838)[code](https://github.com/serre-lab/KuraNet)
+[[paper]](https://arxiv.org/abs/2105.02838) [[code]](https://github.com/serre-lab/KuraNet)
