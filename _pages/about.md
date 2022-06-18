@@ -12,6 +12,8 @@ Hi, welcome to my homepage! I am a M.S. student in [ECE, UCSD](https://www.ece.u
 have been working on reducing the annotation cost and improving out-of-distribution robustness by
 leveraging various supervision or self-supervision signals.
 
+**I am looking for a PhD position in FALL 2023!**
+
 Education
 ======
 * M.S. of Engineering in Machine Learning & Data Science, [UCSD](https://ucsd.edu/), 2021-2023
