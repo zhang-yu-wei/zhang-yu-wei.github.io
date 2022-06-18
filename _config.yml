@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuwei Zhang"
   avatar           : "my_profile.jpg"
-  bio              : "Graduate student in UCSD."
+  bio              : "Graduate student in UCSD"
   location         : "CA, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nQyS0asAAAAJ&hl=en"
-  email            :
+  email            : "zhangyuwei [dot] work [at] gmail [dot] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhang-yu-wei"
+  github           : "zhang-yu-wei"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuwei-zhang-38a3281a3/"
   orcid            : "https://orcid.org/0000-0001-6910-8130"
   pinterest        :
   soundcloud       :
