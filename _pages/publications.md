@@ -20,7 +20,7 @@ author_profile: true
 
 * [**Effectiveness of Pre-training for Few-shot Intent Classification**](https://arxiv.org/abs/2109.05782)
 
-    Haode Zhang*, **Yuwei Zhang***, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam
+    Haode Zhang *, **Yuwei Zhang** *, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam
 
     EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.05782) [[code]](https://github.com/hdzhang-code/IntentBERT)
 
