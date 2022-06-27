@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage! I am a M.S. student in [ECE, UCSD](https://www.ece.ucsd.edu/). I have broad research interest in Natural Language Processing and Vision-Language Learning. Specifically, I
+Hi, welcome to my homepage! I am a M.S. student in [ECE, UCSD](https://www.ece.ucsd.edu/). I have broad research interest in Machine Learning, Natural Language Processing and Vision-Language Learning. Specifically, I
 have been working on reducing the annotation cost and improving out-of-distribution robustness by
 leveraging various supervision or self-supervision signals. Please check my cv [here](https://zhang-yu-wei.github.io/files/cv.pdf).
 
