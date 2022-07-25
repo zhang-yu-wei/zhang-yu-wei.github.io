@@ -22,7 +22,7 @@ author_profile: true
 
     Haode Zhang *, **Yuwei Zhang** *, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam
 
-    EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.05782) [[code]](https://github.com/hdzhang-code/IntentBERT)
+    Findings of EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.05782) [[code]](https://github.com/hdzhang-code/IntentBERT)
 
 * [**KuraNet: Systems of Coupled Oscillators that Learn to Synchronize**](https://arxiv.org/abs/2105.02838)
  
