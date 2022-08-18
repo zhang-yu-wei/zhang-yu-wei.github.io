@@ -18,6 +18,12 @@ author_profile: true
 
     ACL 2022 [[paper]](https://arxiv.org/abs/2205.12914) [[code]](https://github.com/zhang-yu-wei/MTP-CLNN)
 
+* [**Development and validation of a screening model for lung cancer using machine learning: a large-scale, multi-center study of biomarkers in breath**](https://www.frontiersin.org/articles/10.3389/fonc.2022.975563/abstract)
+
+    Jing Li *, **Yuwei Zhang** *, Qing Chen, Zhenhua Pan, Jun Chen, Meixiu Sun, Junfeng Wang, Yingxin Li, Qing Ye
+
+    Frontiers in Oncology 2022 [[paper]](https://www.frontiersin.org/articles/10.3389/fonc.2022.975563/abstract)
+
 * [**Effectiveness of Pre-training for Few-shot Intent Classification**](https://arxiv.org/abs/2109.05782)
 
     Haode Zhang *, **Yuwei Zhang** *, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam
