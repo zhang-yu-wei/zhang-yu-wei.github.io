@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Thanks to all my amazing collaborators!
+
 (* denotes equal contribution)
 
+**2022**
 * [**Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pretraining and Isotropization**](https://arxiv.org/abs/2205.07208)
 
     Haode Zhang, Haowen Liang, **Yuwei Zhang**, Liming Zhan, Xiao-Ming Wu, Xiaolei Lu, Albert Y.S. Lam
@@ -22,13 +25,20 @@ author_profile: true
 
     Jing Li *, **Yuwei Zhang** *, Qing Chen, Zhenhua Pan, Jun Chen, Meixiu Sun, Junfeng Wang, Yingxin Li, Qing Ye
 
-    Frontiers in Oncology 2022 [[paper]](https://www.frontiersin.org/articles/10.3389/fonc.2022.975563/abstract)
+    Frontiers in Oncology [[paper]](https://www.frontiersin.org/articles/10.3389/fonc.2022.975563/abstract)
 
+* [**Automated Calculation of Liquid Crystal Sensing Images Based on Deep Learning**](https://pubs.acs.org/doi/10.1021/acs.analchem.2c02593?)
+
+    **Yuwei Zhang** *, Shuai Xu *, Ronghua Zhang, Zhichao Deng, Yin Liu, Jianguo Tian, Li Yu, Qiongzheng Hu, Qing Ye
+
+    Analytical Chemistry [[paper]](https://pubs.acs.org/doi/10.1021/acs.analchem.2c02593?)
+
+**2021**
 * [**Effectiveness of Pre-training for Few-shot Intent Classification**](https://arxiv.org/abs/2109.05782)
 
     Haode Zhang *, **Yuwei Zhang** *, Li-Ming Zhan, Jiaxin Chen, Guangyuan Shi, Xiao-Ming Wu, Albert Y.S. Lam
 
-    Findings of EMNLP 2021 [[paper]](https://arxiv.org/abs/2109.05782) [[code]](https://github.com/hdzhang-code/IntentBERT)
+    Findings of EMNLP 2021 (short) [[paper]](https://arxiv.org/abs/2109.05782) [[code]](https://github.com/hdzhang-code/IntentBERT)
 
 * [**KuraNet: Systems of Coupled Oscillators that Learn to Synchronize**](https://arxiv.org/abs/2105.02838)
  
