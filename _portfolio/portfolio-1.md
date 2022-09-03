@@ -1,5 +1,5 @@
 ---
-title: "My "Co-workers""
+title: "My Co-workers :)"
 excerpt: "<img src='https://zhang-yu-wei.github.io/images/both.jpeg' width='300'>"
 collection: portfolio
 ---
