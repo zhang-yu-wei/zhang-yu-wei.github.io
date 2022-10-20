@@ -33,6 +33,12 @@ Thanks to all my amazing collaborators!
 
     Analytical Chemistry [[paper]](https://pubs.acs.org/doi/10.1021/acs.analchem.2c02593?)
 
+* [**Research on assistant diagnosis of fundus optic neuropathy based on deep learning**](https://www.tandfonline.com/doi/full/10.1080/02713683.2022.2138917)
+
+    Chengjin Wang *, **Yuwei Zhang** *, Shuai Xu, Yuyan Liu, Lindan Xie, Changlong Wu, Qianhui Yang, Yanhua Chu, Qing Ye
+
+    Current Eye Research [[paper]](https://www.tandfonline.com/doi/full/10.1080/02713683.2022.2138917)
+
 **2021**
 * [**Effectiveness of Pre-training for Few-shot Intent Classification**](https://arxiv.org/abs/2109.05782)
 
