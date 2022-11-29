@@ -16,8 +16,8 @@ leveraging various supervision or self-supervision signals. Please check my cv [
 
 Education
 ======
-* M.S. of Engineering in Machine Learning & Data Science, [UCSD](https://ucsd.edu/), 2021-2023
-* B.S. of Science in Physics, [NKU](https://en.nankai.edu.cn/), 2016-2020
+* M.S. in Electrical Engineering, track: Machine Learning & Data Science, [UCSD](https://ucsd.edu/), 2021-2023
+* B.S. in Physics, [NKU](https://en.nankai.edu.cn/), 2016-2020
 
 Experience
 ======
