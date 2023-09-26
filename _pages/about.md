@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage!
-======
-
-I am a PhD student in [Halıcıoğlu Data Science Institute (HDSI), UCSD](https://www.ece.ucsd.edu/) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). Before that, I received my B.S. in Physics from Nankai University and M.S. in E.E. from UCSD. Please check my cv [here](https://zhang-yu-wei.github.io/files/cv.pdf).
+Hi, welcome to my homepage! I am a PhD student in [Halıcıoğlu Data Science Institute (HDSI), UCSD](https://www.ece.ucsd.edu/) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). Before that, I received my B.S. in Physics from Nankai University and M.S. in E.E. from UCSD. Please check my cv [here](https://zhang-yu-wei.github.io/files/cv.pdf).
 
 Research Interest
 ======
