@@ -8,6 +8,15 @@ Thanks to all my amazing collaborators!
 
 (* denotes equal contribution)
 
+**2023**
+* [**Toward Unsupervised Realistic Visual Question Answering**](https://arxiv.org/pdf/2303.05068.pdf)
+
+    **Yuwei Zhang** *, Chih-Hui Ho *, Nuno Vasconcelos
+
+    To Appear in Proceedings of 2023 International Conference on Computer Vision (ICCV), Paris, October 2023.
+
+    [[paper]]() [[code]](https://github.com/chihhuiho/RGQA)
+
 **2022**
 * [**Fine-tuning Pre-trained Language Models for Few-shot Intent Detection: Supervised Pretraining and Isotropization**](https://arxiv.org/abs/2205.07208)
 
