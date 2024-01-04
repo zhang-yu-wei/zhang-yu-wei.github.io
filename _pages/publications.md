@@ -9,6 +9,14 @@ Thanks to all my amazing collaborators!
 (* denotes equal contribution)
 
 **2023**
+* [**ClusterLLM: Large Language Models as a Guide for Text Clustering**](https://arxiv.org/abs/2305.14871)
+
+    **Yuwei Zhang**, Zihan Wang, Jingbo Shang
+
+    To Appear in The 2023 Conference on Empirical Methods in Natural Language Processing, Singapore, December 2023.
+
+    [[paper]](https://aclanthology.org/2023.emnlp-main.858/) [[code]](https://github.com/zhang-yu-wei/ClusterLLM)
+
 * [**Toward Unsupervised Realistic Visual Question Answering**](https://arxiv.org/pdf/2303.05068.pdf)
 
     **Yuwei Zhang** *, Chih-Hui Ho *, Nuno Vasconcelos
