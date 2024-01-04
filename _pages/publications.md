@@ -13,7 +13,7 @@ Thanks to all my amazing collaborators!
 
     **Yuwei Zhang**, Zihan Wang, Jingbo Shang
 
-    To Appear in The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)(Long Paper), Singapore, December 2023.
+    To Appear in The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) (Long Paper), Singapore, December 2023.
 
     [[paper]](https://aclanthology.org/2023.emnlp-main.858/) [[code]](https://github.com/zhang-yu-wei/ClusterLLM)
 
