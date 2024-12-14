@@ -13,7 +13,11 @@ Hi, welcome to my homepage! I am a PhD student in [Halıcıoğlu Data Science In
 Research Interest
 ======
 
-I have broad research interest in Machine Learning, Natural Language Processing and Vision-Language Learning. Currently, I am working on improving embedding models, information extraction from large amount of data and their collaborations with large language models (LLMs).
+My most recent research focus include:
+    1. [[Enabling]](https://arxiv.org/abs/2402.04624) and [[evaluating]](https://arxiv.org/pdf/2410.10813.pdf) LLMs with long-term memories
+    2. Facilitating Retrieval-augmented Generation to handle complex (implicit or [[multi-hop]](https://arxiv.org/abs/2405.14831) or [[compositional]](https://arxiv.org/abs/2406.14739)) queries
+    3. Other areas such as alignment, [[multi-modal]](https://arxiv.org/pdf/2303.05068.pdf) and efficiency
+Beyond that, I have broad research interest in Machine Learning, Natural Language Processing and Vision-Language Learning. Currently, I am working on improving embedding models, information extraction from large amount of data and their collaborations with large language models (LLMs).
 
 Education
 ======
@@ -23,6 +27,7 @@ Education
 
 Experience
 ======
+* Research Scientist Intern, [Tencent AI Lab](), 2024 Summer
 * Applied Scientist Intern, [Amazon](), 2023 Summer
 * Research Intern, [SVCL Lab](http://www.svcl.ucsd.edu/), UCSD, 2022-2023
 * Research Assistant, [Department of Computing](https://www.polyu.edu.hk/comp/), PolyU, 2021-2021

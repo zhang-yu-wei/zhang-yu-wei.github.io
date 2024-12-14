@@ -7,6 +7,34 @@ author_profile: true
 Thanks to all my amazing collaborators!
 
 (* denotes equal contribution)
+**2024**
+* [**Answer is All You Need: Instruction-following Text Embedding via Answering the Question**](https://arxiv.org/pdf/2402.09642)
+
+    Letian Peng *, **Yuwei Zhang** *, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang, Jingbo Shang
+
+    To Appear in The 62nd Annual Meeting of the Association for Computational Linguistics (ACL) (Long Paper), Bangkok, Thailand, August 2024.
+
+    [[paper]](https://arxiv.org/pdf/2402.09642) [[code]](https://github.com/zhang-yu-wei/inbedder)
+
+* [**Can your model tell a negation from an implicature? Unravelling challenges with intent encoders**](https://arxiv.org/pdf/2403.04314)
+
+    **Yuwei Zhang**, Siffi Singh, Sailik Sengupta, Igor Shalyminov, Hang Su, Hwanjun Song, Saab Mansour
+
+    To Appear in The 62nd Annual Meeting of the Association for Computational Linguistics (ACL) (Long Paper), Bangkok, Thailand, August 2024.
+
+    [[paper]](https://arxiv.org/pdf/2403.04314) [[code]](https://github.com/amazon-science/aws-intent-detect-neg-implicature-dataset)
+
+* [**Speculative rag: Enhancing retrieval augmented generation through drafting**](https://arxiv.org/pdf/2407.08223)
+
+    Zilong Wang, Zifeng Wang, Long Le, Huaixiu Steven Zheng, Swaroop Mishra, Vincent Perot, Yuwei Zhang, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister
+
+    [[paper]](https://arxiv.org/abs/2407.08223)
+
+* [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://arxiv.org/pdf/2410.10813)
+
+    Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu
+
+    [[paper]](https://arxiv.org/pdf/2410.10813) [[code]](https://github.com/xiaowu0162/LongMemEval)
 
 **2023**
 * [**ClusterLLM: Large Language Models as a Guide for Text Clustering**](https://arxiv.org/abs/2305.14871)
@@ -78,7 +106,5 @@ Thanks to all my amazing collaborators!
 * [**KuraNet: Systems of Coupled Oscillators that Learn to Synchronize**](https://arxiv.org/abs/2105.02838)
  
     Matthew Ricci, Minju Jung, **Yuwei Zhang**, Mathieu Chalvidal, Aneri Soni, Thomas Serre.
-
-    arXiv 2021
     
     [[paper]](https://arxiv.org/abs/2105.02838) [[code]](https://github.com/serre-lab/KuraNet)
