@@ -7,6 +7,7 @@ author_profile: true
 Thanks to all my amazing collaborators!
 
 (* denotes equal contribution)
+
 **2025**
 * [**Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**](https://openreview.net/forum?id=xgQfWbV6Ey)
  
