@@ -7,6 +7,19 @@ author_profile: true
 Thanks to all my amazing collaborators!
 
 (* denotes equal contribution)
+**2025**
+* [**Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**](https://openreview.net/forum?id=xgQfWbV6Ey)
+ 
+    Zilong Wang, Zifeng Wang, Long Le, Steven Zheng, Swaroop Mishra, Vincent Perot, **Yuwei Zhang**, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister
+
+    ICLR 2025.
+
+* [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://openreview.net/forum?id=pZiyCaVuti)
+
+    Di Wu, Hongwei Wang, Wenhao Yu, **Yuwei Zhang**, Kai-Wei Chang, Dong Yu 
+
+    ICLR 2025.
+
 **2024**
 * [**Answer is All You Need: Instruction-following Text Embedding via Answering the Question**](https://arxiv.org/pdf/2402.09642)
 
