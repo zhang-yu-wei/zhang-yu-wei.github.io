@@ -38,18 +38,6 @@ Thanks to all my amazing collaborators!
 
     [[paper]](https://arxiv.org/pdf/2403.04314) [[code]](https://github.com/amazon-science/aws-intent-detect-neg-implicature-dataset)
 
-* [**Speculative rag: Enhancing retrieval augmented generation through drafting**](https://arxiv.org/pdf/2407.08223)
-
-    Zilong Wang, Zifeng Wang, Long Le, Huaixiu Steven Zheng, Swaroop Mishra, Vincent Perot, Yuwei Zhang, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister
-
-    [[paper]](https://arxiv.org/abs/2407.08223)
-
-* [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://arxiv.org/pdf/2410.10813)
-
-    Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu
-
-    [[paper]](https://arxiv.org/pdf/2410.10813) [[code]](https://github.com/xiaowu0162/LongMemEval)
-
 **2023**
 * [**ClusterLLM: Large Language Models as a Guide for Text Clustering**](https://arxiv.org/abs/2305.14871)
 
