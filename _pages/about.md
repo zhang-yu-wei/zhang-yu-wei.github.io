@@ -10,14 +10,18 @@ redirect_from:
 
 Hi, welcome to my homepage! I am a PhD student in [Halıcıoğlu Data Science Institute (HDSI), UCSD](https://www.ece.ucsd.edu/) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io/). Before that, I received my B.S. in Physics from Nankai University and M.S. in E.E. from UCSD. Please check my cv [here](https://zhang-yu-wei.github.io/files/cv.pdf).
 
-Research Interest
+Research Interests
 ======
 
 My most recent research focus include:
-    1. [[Enabling]](https://arxiv.org/abs/2402.04624) and [[evaluating]](https://arxiv.org/pdf/2410.10813.pdf) LLMs with long-term memories
-    2. Facilitating Retrieval-augmented Generation to handle complex (implicit or [[multi-hop]](https://arxiv.org/abs/2405.14831) or [[compositional]](https://arxiv.org/abs/2406.14739)) queries
-    3. Other areas such as alignment, [[multi-modal]](https://arxiv.org/pdf/2303.05068.pdf) and efficiency
-Beyond that, I have broad research interest in Machine Learning, Natural Language Processing and Vision-Language Learning. Currently, I am working on improving embedding models, information extraction from large amount of data and their collaborations with large language models (LLMs).
+
+1. [Enabling](https://arxiv.org/abs/2402.04624) and [evaluating](https://arxiv.org/pdf/2410.10813.pdf) LLMs with long-term memories. I am especially thinking from the perspectives of training better context compression models and [the attention mechanism of Transformers](https://arxiv.org/abs/2503.09819).
+
+2. I also believe in RL-based training methods. To that end, I believe that designing a better reward mechanism might be the most crucial part.
+
+3. Other areas such as alignment, [multi-modal](https://arxiv.org/pdf/2303.05068.pdf) and efficiency
+
+I am activately looking for collaborators on these areas and I am very happy to mentor M.S. or undergraduate students with related backgrounds!
 
 Education
 ======

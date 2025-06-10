@@ -8,6 +8,19 @@ Thanks to all my amazing collaborators!
 
 (* denotes equal contribution)
 
+**Preprints**
+* [**Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection**](https://arxiv.org/abs/2505.12306)
+
+    **Yuwei Zhang**, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang
+
+* [**Attention Reveals More Than Tokens: Training-Free Long-Context Reasoning with Attention-guided Retrieval**](https://arxiv.org/abs/2503.09819)
+
+    **Yuwei Zhang**, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang
+
+* [**Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning**](https://arxiv.org/abs/2503.07018)
+
+    Xintong Li, Jalend Bantupalli, Ria Dharmani, **Yuwei Zhang**, Jingbo Shang
+
 **2025**
 * [**Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**](https://openreview.net/forum?id=xgQfWbV6Ey)
  
