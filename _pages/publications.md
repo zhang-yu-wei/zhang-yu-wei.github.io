@@ -9,6 +9,10 @@ Thanks to all my amazing collaborators!
 (* denotes equal contribution)
 
 **Preprints**
+* [**MaPPO: Maximum a posteriori preference optimization with prior knowledge**](https://arxiv.org/pdf/2507.21183)
+
+    Guangchen Lan, Sipeng Zhang, Tianle Wang, **Yuwei Zhang**, Daoan Zhang, Xinpeng Wei, Xiaoman Pan, Hongming Zhang, Dong-Jun Han, Christopher G Brinton
+
 * [**Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection**](https://arxiv.org/abs/2505.12306)
 
     **Yuwei Zhang**, Wenhao Yu, Shangbin Feng, Yifan Zhu, Letian Peng, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang
@@ -17,11 +21,13 @@ Thanks to all my amazing collaborators!
 
     **Yuwei Zhang**, Jayanth Srinivasa, Gaowen Liu, Jingbo Shang
 
+**2025**
 * [**Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning**](https://arxiv.org/abs/2503.07018)
 
     Xintong Li, Jalend Bantupalli, Ria Dharmani, **Yuwei Zhang**, Jingbo Shang
 
-**2025**
+    EMNLP 2025.
+
 * [**Speculative RAG: Enhancing Retrieval Augmented Generation through Drafting**](https://openreview.net/forum?id=xgQfWbV6Ey)
  
     Zilong Wang, Zifeng Wang, Long Le, Steven Zheng, Swaroop Mishra, Vincent Perot, **Yuwei Zhang**, Anush Mattapalli, Ankur Taly, Jingbo Shang, Chen-Yu Lee, Tomas Pfister
