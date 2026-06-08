@@ -1,0 +1,59 @@
+primary_name: "Yuwei Zhang"
+secondary_name: ""
+navbar_name: "Yuwei Zhang"
+
+positions:
+- name: Ph.D. Student, Halıcıoğlu Data Science Institute, UC San Diego
+
+email: "zhangyuwei.work@gmail.com"
+cv_link: /files/cv.pdf
+gscholar: nQyS0asAAAAJ
+github: zhang-yu-wei
+twitter: YuweiZh49446108
+linkedin: yuwei-zhang-38a3281a3
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a Ph.D. student at the
+    <a href="https://datascience.ucsd.edu/" target="_blank">Halıcıoğlu Data Science Institute, UC San Diego</a>,
+    advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Prof. Jingbo Shang</a>.
+    My research focuses on <b>LLM post-training, continual adaptation, and memory</b>.
+  </p>
+  <p>
+    I am especially interested in how language models can improve after pretraining: learning from limited task data,
+    rare success signals, long-horizon feedback, and persistent context while retaining prior knowledge.
+    My recent work studies <a href="https://arxiv.org/abs/2505.12306" target="_blank">knowledge injection</a>,
+    <a href="https://arxiv.org/abs/2605.12741" target="_blank">on-policy self-distillation / reinforcement learning</a>,
+    and <a href="https://arxiv.org/abs/2605.30842" target="_blank">memory-based context management</a>.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+
+education:
+- name: University of California San Diego
+  dept: Halıcıoğlu Data Science Institute
+  position: Ph.D. in Data Science
+  date: 2023 - present
+- name: University of California San Diego
+  dept: Electrical Engineering
+  position: M.S. in Electrical Engineering, Machine Learning & Data Science
+  date: 2021 - 2023
+- name: Nankai University
+  dept: Physics
+  position: B.S. in Physics
+  date: 2016 - 2020
+
+experience:
+- name: Google DeepMind
+  position: Research Scientist Intern
+  date: Summer 2026
+- name: Amazon Rufus (Foundation Models Team)
+  position: Applied Scientist Intern
+  date: Summer 2025 - Summer 2026
+- name: Tencent AI Lab
+  position: Research Scientist Intern
+  date: Summer 2024
+- name: Amazon AWS
+  position: Applied Scientist Intern
+  date: Summer 2023

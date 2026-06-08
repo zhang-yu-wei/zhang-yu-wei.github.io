@@ -24,6 +24,23 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+### Yuwei's local command
+
+This machine uses fish and Homebrew Ruby. To preview edits locally with auto-regeneration:
+
+```fish
+cd /Users/yuweizhang/Documents/Projects/zhang-yu-wei.github.io
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
+```
+
+Open <http://127.0.0.1:4000/>. If a new terminal still uses the old system Ruby, restart fish with:
+
+```fish
+exec fish
+```
+
+Do not run `source ~/.zshrc` from fish.
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 

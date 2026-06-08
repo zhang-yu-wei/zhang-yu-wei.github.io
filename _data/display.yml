@@ -1,0 +1,8 @@
+homepage:
+  show_experience: true
+  show_news: true
+  show_selected_publications: true
+  num_news: 3
+  num_selected_publications: 3
+
+footer_text: ""
