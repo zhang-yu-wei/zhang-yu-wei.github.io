@@ -5,6 +5,7 @@ selected: true
 pub: "ICML"
 pub_date: "2026"
 cover: /assets/images/covers/comem-cover.png
+abstract: "CoMem decouples agent reasoning from memory summarization so long-horizon agents can preserve most long-context performance while reducing latency through asynchronous context management."
 authors:
 - Yuwei Zhang
 - Chengyu Dong

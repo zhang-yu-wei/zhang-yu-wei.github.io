@@ -27,8 +27,11 @@ short_bio: >-
     <a href="https://arxiv.org/abs/2605.12741" target="_blank">on-policy self-distillation / reinforcement learning</a>,
     and <a href="https://arxiv.org/abs/2605.30842" target="_blank">memory-based context management</a>.
   </p>
-  </p>
+  <p>
     Beyond research, I am passionate about sports, especially hiking, basketball and motor racing.
+  </p>
+  <p>
+    I want to express my sincere gratitude to my advisors, collaborators, and mentors for their invaluable guidance and support throughout my research and life.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -54,6 +57,9 @@ experience:
 - name: Amazon Rufus (Foundation Models Team)
   position: Applied Scientist Intern
   date: Summer 2025 - Summer 2026
+- name: AMD Research
+  position: Research Scientist Intern
+  date: Spring 2025
 - name: Tencent AI Lab
   position: Research Scientist Intern
   date: Summer 2024

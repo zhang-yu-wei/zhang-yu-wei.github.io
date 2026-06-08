@@ -6,6 +6,7 @@ pub: "ACL"
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date: "2026"
 cover: /assets/images/covers/wikidyk-results.png
+abstract: "WikiDYK benchmarks real-world knowledge injection from fresh Wikipedia facts and shows bidirectional language models memorize injected knowledge more reliably than causal LMs."
 authors:
 - Yuwei Zhang
 - Wenhao Yu
