@@ -5,6 +5,7 @@ selected: true
 pub: "EMNLP"
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date: "2025"
+abstract: "ImplexConv and TaciTree target implicit personalization across many conversation sessions by structuring memory into a hierarchy that supports efficient, fine-grained reasoning."
 authors:
 - Xintong Li
 - Jalend Bantupalli

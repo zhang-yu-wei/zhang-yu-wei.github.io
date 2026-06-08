@@ -4,6 +4,7 @@ date: 2026-05-13 00:01:00 -0700
 selected: false
 pub: "Preprint"
 pub_date: "2026"
+abstract: "ChipMATE trains Verilog and Python reference-model agents to mutually verify RTL generation without a golden oracle, improving deployable hardware-code generation for industrial settings."
 authors:
 - Zhongkai Yu
 - Yichen Lin

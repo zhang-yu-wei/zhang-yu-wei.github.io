@@ -4,6 +4,7 @@ date: 2025-01-15 00:01:00 -0800
 selected: true
 pub: "ICLR"
 pub_date: "2025"
+abstract: "Speculative RAG speeds up retrieval-augmented generation by letting a small specialist draft evidence-grounded answers in parallel while a larger model verifies them once."
 authors:
 - Zilong Wang
 - Zifeng Wang

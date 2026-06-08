@@ -4,6 +4,7 @@ date: 2025-03-09 00:01:00 -0700
 selected: true
 pub: "Preprint"
 pub_date: "2025"
+abstract: "Attrieval uses attention from chain-of-thought tokens as a training-free signal to retrieve implicit facts that long-context LLMs miss during multi-step reasoning."
 authors:
 - Yuwei Zhang
 - Jayanth Srinivasa
