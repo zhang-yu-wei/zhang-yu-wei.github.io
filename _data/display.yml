@@ -3,6 +3,6 @@ homepage:
   show_news: true
   show_selected_publications: true
   num_news: 5
-  num_selected_publications: 3
+  num_selected_publications: 4
 
 footer_text: ""
