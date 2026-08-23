@@ -4,6 +4,7 @@ date: 2023-12-01 00:01:00 -0800
 selected: true
 pub: "EMNLP"
 pub_date: "2023"
+cover: /assets/images/covers/clusterllm-overview.png
 authors:
 - Yuwei Zhang
 - Zihan Wang

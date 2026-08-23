@@ -4,6 +4,7 @@ date: 2024-08-01 00:02:00 -0700
 selected: false
 pub: "ACL Findings"
 pub_date: "2024"
+cover: /assets/images/covers/cotam-overview.png
 authors:
 - Letian Peng
 - Yuwei Zhang

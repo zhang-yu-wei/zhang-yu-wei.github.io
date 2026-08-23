@@ -4,6 +4,7 @@ date: 2024-08-01 00:00:00 -0700
 selected: false
 pub: "ACL"
 pub_date: "2024"
+cover: /assets/images/covers/intent-semantics-framework.jpg
 authors:
 - Yuwei Zhang
 - Siffi Singh

@@ -4,6 +4,7 @@ date: 2024-08-01 00:01:00 -0700
 selected: true
 pub: "ACL"
 pub_date: "2024"
+cover: /assets/images/covers/inbedder-workflow.png
 authors:
 - "Letian Peng*"
 - "Yuwei Zhang*"

@@ -4,6 +4,7 @@ date: 2023-10-01 00:01:00 -0700
 selected: false
 pub: "ICCV"
 pub_date: "2023"
+cover: /assets/images/covers/rgqa-intro.png
 authors:
 - "Yuwei Zhang*"
 - "Chih-Hui Ho*"

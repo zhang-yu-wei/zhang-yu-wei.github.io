@@ -4,6 +4,7 @@ date: 2022-01-03 00:03:00 -0800
 selected: false
 pub: "Frontiers in Oncology"
 pub_date: "2022"
+cover: /assets/images/covers/lung-cancer-biomarkers.jpg
 authors:
 - "Jing Li*"
 - "Yuwei Zhang*"

@@ -5,6 +5,7 @@ selected: false
 pub: "NAACL"
 pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date: "2022"
+cover: /assets/images/covers/isointentbert-idea.png
 authors:
 - Haode Zhang
 - Haowen Liang
