@@ -2,8 +2,8 @@
 title: "MaPPO: Maximum a posteriori preference optimization with prior knowledge"
 date: 2025-07-21 00:01:00 -0700
 selected: true
-pub: "Preprint"
-pub_date: "2025"
+pub: "NeurIPS"
+pub_date: "2026"
 cover: /assets/images/covers/mappo-mle-vs-map.png
 abstract: "MaPPO reframes preference optimization as a maximum-a-posteriori objective that injects prior reward knowledge to improve alignment without extra hyperparameters."
 authors:
