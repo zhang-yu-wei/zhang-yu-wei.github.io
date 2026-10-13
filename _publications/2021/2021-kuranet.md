@@ -2,8 +2,8 @@
 title: "KuraNet: Systems of Coupled Oscillators that Learn to Synchronize"
 date: 2021-05-01 00:01:00 -0700
 selected: false
-pub: "Preprint"
-pub_date: "2021"
+pub: "Cosyne"
+pub_date: "2020"
 cover: /assets/images/covers/kuranet-overview.jpg
 authors:
 - Matthew Ricci
